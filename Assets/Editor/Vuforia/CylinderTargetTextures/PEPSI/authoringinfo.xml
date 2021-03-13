@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="WristWatch1" version="3.0" targetId="46a18bcb15d443f59c8de20f85124885" sideLength="1.000000" topDiameter="2.290000" bottomDiameter="2.290000" sideImage="WristWatch1.Body_scaled.jpg"/>
+        <CylinderTarget name="PepsiBottle" version="3.0" targetId="0f2f6f3cf9814e6bb1b2fae4f82f63cd" sideLength="3.500000" topDiameter="3.566000" bottomDiameter="3.566000" sideImage="PepsiBottle.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
